@@ -697,7 +697,6 @@ const Contact = () => (
           </a>
 
           <p className="mt-3 text-xs text-white/50">
-            Tip: when you deploy, you can switch to a company inbox (e.g., info@jlgplanningconsulting.com).
           </p>
         </div>
       </FadeIn>
