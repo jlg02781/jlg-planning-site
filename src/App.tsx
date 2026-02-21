@@ -690,7 +690,7 @@ const Contact = () => (
           </div>
 
           <a
-            href="mailto:jlg02781@gmail.com?subject=JLG%20Risk%20Services%20-%20Inquiry"
+            href="mailto:info@jlg-planning.com?subject=JLG%20Risk%20Services%20-%20Inquiry"
             className={`mt-6 inline-flex w-full items-center justify-center gap-2 rounded-2xl bg-gradient-to-r ${ACCENT} px-6 py-3 text-sm font-semibold text-slate-950 hover:opacity-95 transition`}
           >
             Email JLG <ArrowRight className="h-4 w-4" />
