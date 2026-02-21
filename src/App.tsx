@@ -660,8 +660,8 @@ const Contact = () => (
             <div className="flex items-center gap-3">
               <Mail className="h-4 w-4 text-white/70" />
               <span className="text-white/70">Email:</span>
-              <a className="text-white hover:underline" href="mailto:jlg02781@gmail.com">
-                jlg02781@gmail.com
+              <a className="text-white hover:underline" href="mailto:info@jlg-planning.com">
+                info@jlg-planning.com
               </a>
             </div>
             <div className="flex items-center gap-3">
