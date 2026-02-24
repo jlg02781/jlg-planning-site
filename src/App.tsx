@@ -464,7 +464,7 @@ const Experience = () => {
       years: "2023–2024",
       value: "Federal shipbuilding program",
       summary:
-        "Performed Schedule Risk Analysis (SRA) integrating the program Risk Register with the live master schedule. Executed Monte Carlo simulations, rationalized risk-to-schedule gaps, summarized probabilistic outputs for executive visibility, and provided actionable recommendations to improve forecast confidence.",
+        "Supported Schedule Risk Analysis (SRA) by integrating the program Risk Register with the live master schedule. Executed Monte Carlo simulations, rationalized risk-to-schedule gaps, summarized probabilistic outputs for executive visibility, and provided actionable recommendations to improve forecast confidence.",
     },
     {
       name: "City of Ottawa – LRT Stage 2 (Rail Construction Program)",
